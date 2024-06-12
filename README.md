@@ -5,7 +5,6 @@
 
 > 在用Gussian mixture model之前，最一開始用的是K-means Clustering，再來是用Hierarchical clustering(HAC分類)。依分類結果來看，由好到壞的方法依序是:`Gussian -> K-means -> HAC`。故最後選擇用Guassian的結果來執行
 
----
 ## Guide
 
 ### part of emotion identification
