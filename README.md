@@ -12,6 +12,7 @@
 ### part of music classification
 * download `chromedriver`
     * 下載完以後要把chromedriver的路徑放上去(不想修改程式的話就是把chromedriver.exe放在根源程式瞳一個資料夾中)
-* `pip install selenium` (自動化 web 瀏覽器的工具)
+* `pip install selenium` 
+    * 自動化 web 瀏覽器的工具
 
 > 原本要接spotify API但spotipy這個套件一直使用失敗，所以就換成直接打開youtube頁面並寫腳本自動搜尋歌曲
