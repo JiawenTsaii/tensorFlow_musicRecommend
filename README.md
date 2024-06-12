@@ -11,7 +11,8 @@
 
 ### part of music classification
 * download `chromedriver`
-    * 下載完以後要把chromedriver的路徑放上去(不想修改程式的話就是把chromedriver.exe放在根源程式瞳一個資料夾中)
+    * 下載完以後要根據自己本地的chromedriver路徑更改程式
+    * 不想修改程式的話就是把chromedriver.exe放在根源程式同一個資料夾中
 * `pip install selenium` 
     * 自動化 web 瀏覽器的工具
 
